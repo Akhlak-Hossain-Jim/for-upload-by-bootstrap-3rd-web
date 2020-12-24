@@ -1,0 +1,31 @@
+.header {
+  margin-top: 0px;
+  background-color: black;
+}
+.header .namelogo {
+  font-family: "Crimson Text", serif;
+  font-style: italic;
+  font-size: 70px;
+  color: white;
+}
+.header .namelogo #khlak {
+  font-family: "Dancing Script", cursive;
+  font: italic;
+  color: #0b5750;
+}
+.header .img {
+  margin: 0;
+  padding: unset;
+}
+.header .pages {
+  font-family: "Lobster", cursive;
+  font-size: 2rem;
+  display: inline-flex;
+}
+.header .page {
+  border: 2px solid beige;
+  color: wheat;
+  border-radius: 10%;
+  padding: 5px;
+  margin: 10px;
+}
